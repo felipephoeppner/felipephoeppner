@@ -4,10 +4,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/hoeppnerfelipe/) · [Laboratório de QA](https://github.com/felipephoeppner/shortbeyond-qa-lab) · [Certificações](#certificações) · [Cursos](#cursos-e-formação-complementar) · [Contato](#contato)
 
-> 🚧 **Portfólio em construção**
->
-> Estou organizando e publicando meus estudos e projetos aos poucos. O conteúdo disponível ainda é inicial e será ampliado com novos exemplos, testes e materiais de consulta. As experiências e competências descritas nesta página apresentam minha trajetória profissional; nem todas estão demonstradas nos repositórios publicados até o momento.
-
 ## Sobre mim
 
 Sou profissional de qualidade de software com mais de 8 anos de experiência em QA, testes, processos e colaboração ao longo do SDLC. Atualmente, no **Instituto Mirus / Mirus Project**, contribuo para estruturar uma abordagem de qualidade integrada ao desenvolvimento, com foco em testabilidade, automação de APIs, confiabilidade e responsabilidade compartilhada pela qualidade.
@@ -129,5 +125,6 @@ Para oportunidades, conversas técnicas ou parcerias:
 - E-mail: [felipe.p.hoeppner+work@gmail.com](mailto:felipe.p.hoeppner+work@gmail.com)
 
 ---
-
-Portfólio em desenvolvimento, mantido como apresentação profissional e ponto de entrada para meus projetos e estudos. Última atualização: outubro de 2026.
+> 🚧 **Portfólio em construção**
+>
+> Estou organizando e publicando meus estudos e projetos aos poucos. O conteúdo disponível ainda é inicial e será ampliado com novos exemplos, testes e materiais de consulta. As experiências e competências descritas nesta página apresentam minha trajetória profissional; nem todas estão demonstradas nos repositórios publicados até o momento. Última atualização: outubro de 2026.
