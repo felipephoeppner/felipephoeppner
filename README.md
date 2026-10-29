@@ -2,7 +2,7 @@
 
 ### Quality Engineer | Test Architecture | Automação de APIs | IA aplicada à Engenharia de Software
 
-[LinkedIn](https://www.linkedin.com/in/hoeppnerfelipe/) · [Portfólio](https://github.com/felipephoeppner/QA_portfolio) · [Laboratório de QA](https://github.com/felipephoeppner/shortbeyond-qa-lab) · [Certificações](#certificações) · [Cursos](#cursos-e-formação-complementar) · [Contato](#contato)
+[LinkedIn](https://www.linkedin.com/in/hoeppnerfelipe/) · [Laboratório de QA](https://github.com/felipephoeppner/shortbeyond-qa-lab) · [Certificações](#certificações) · [Cursos](#cursos-e-formação-complementar) · [Contato](#contato)
 
 > 🚧 **Portfólio em construção**
 >
@@ -20,7 +20,6 @@ Este espaço reúne meus estudos e projetos de **Quality Engineering**, com expl
 
 | Repositório | O que você encontra |
 | --- | --- |
-| [QA Portfolio](https://github.com/felipephoeppner/QA_portfolio) | Minha apresentação e os primeiros estudos de QA, em organização para funcionar como catálogo dos projetos. |
 | [ShortBeyond QA Lab](https://github.com/felipephoeppner/shortbeyond-qa-lab) | Laboratório de testes de API e performance, com material organizado localmente para publicação gradual. |
 
 ## Em que tenho trabalhado
@@ -66,14 +65,6 @@ O material preparado localmente inclui:
 **Status:** em desenvolvimento, com publicação e evolução gradual do conteúdo. A preparação local não significa que todos os materiais já estejam disponíveis no repositório.
 
 [Visitar o laboratório](https://github.com/felipephoeppner/shortbeyond-qa-lab)
-
-### [QA Portfolio](https://github.com/felipephoeppner/QA_portfolio)
-
-Repositório que reúne minha apresentação e os primeiros estudos de automação de APIs. Está sendo organizado como catálogo dos projetos e materiais técnicos do portfólio.
-
-**Objetivo:** facilitar a descoberta dos trabalhos e conectar cada estudo à sua implementação e documentação.
-
-[Explorar o portfólio](https://github.com/felipephoeppner/QA_portfolio)
 
 ## Outras frentes de estudo e atuação
 
