@@ -94,7 +94,7 @@ Sigo aprofundando minha atuação em automação, arquitetura de qualidade, segu
 
 | Certificação | Instituição | Data | Consulta |
 | --- | --- | --- | --- |
-| ISTQB® Certified Tester Foundation Level — CTFL | BSTQB / ISTQB | 08/03/2024 | [Consultar registro no BSTQB](https://bcr.bstqb.org.br/cert) |
+| ISTQB® Certified Tester Foundation Level — CTFL | BSTQB / ISTQB | 08/03/2024 | [Consultar registro no BSTQB](https://bcr.bstqb.org.br/cert?field_certificado_numero_value=24-CTFL-13248-BR&field_certificado_nome_value=FELIPE+PENHA+HOEPPNER) |
 
 Para localizar minha certificação na consulta oficial:
 
