@@ -2,7 +2,7 @@
 
 ### Quality Engineer | Test Architecture | Automação de APIs | IA aplicada à Engenharia de Software
 
-[LinkedIn](https://www.linkedin.com/in/hoeppnerfelipe/) · [Laboratório de QA](https://github.com/felipephoeppner/shortbeyond-qa-lab) · [Certificações](#certificações) · [Cursos](#cursos-e-formação-complementar) · [Contato](#contato)
+[LinkedIn](https://www.linkedin.com/in/hoeppnerfelipe/) · [ZombiePlus](https://github.com/felipephoeppner/Playwright-zombiePlus) · [Laboratório de QA](https://github.com/felipephoeppner/shortbeyond-qa-lab) · [Certificações](#certificações) · [Cursos](#cursos-e-formação-complementar) · [Contato](#contato)
 
 ## Sobre mim
 
@@ -16,6 +16,7 @@ Este espaço reúne meus estudos e projetos de **Quality Engineering**, com expl
 
 | Repositório | O que você encontra |
 | --- | --- |
+| [ZombiePlus](https://github.com/felipephoeppner/Playwright-zombiePlus) | Automação de testes de interface com Playwright e JavaScript, com preparação de dados por API e limpeza no PostgreSQL. |
 | [ShortBeyond QA Lab](https://github.com/felipephoeppner/shortbeyond-qa-lab) | Laboratório de testes de API e performance, com material organizado localmente para publicação gradual. |
 
 ## Em que tenho trabalhado
@@ -41,6 +42,26 @@ Este espaço reúne meus estudos e projetos de **Quality Engineering**, com expl
 | Shift-Left Testing | Test Isolation & Parallelism | Docker, Git, Jira e Agile |
 
 ## Projetos e estudos
+
+### [ZombiePlus — Automação de testes com Playwright](https://github.com/felipephoeppner/Playwright-zombiePlus)
+
+Projeto de estudos desenvolvido a partir do curso **Playwright Zombie Course**, com testes automatizados para a aplicação ZombiePlus usando **Playwright, JavaScript, Faker e PostgreSQL**.
+
+A implementação inclui:
+
+- Testes de login de administrador, credenciais inválidas e campos obrigatórios.
+- Cadastro de leads na fila de espera, duplicidade de e-mail e validações do formulário.
+- Cadastro, remoção e busca de filmes, com validação de campos obrigatórios e duplicidade.
+- Organização em *specs*, actions reutilizáveis, *fixtures* e massas de teste.
+- Requisições HTTP para autenticação e preparação de dados, além de consultas ao PostgreSQL para limpeza do ambiente de testes.
+- Relatórios HTML e JSON, screenshots em falhas e traces conforme a configuração de execução.
+- Workflow inicial no GitHub Actions, ainda dependente da preparação dos serviços e do banco no CI.
+
+**Objetivo:** praticar automação de interface, reaproveitamento de ações e controle de dados para cenários de ponta a ponta.
+
+**Status:** curso concluído, com implementação de estudos e oportunidades de evolução na execução em CI e no isolamento dos dados.
+
+[Ver repositório](https://github.com/felipephoeppner/Playwright-zombiePlus) · [Conhecer o curso](https://www.udemy.com/share/10aNhQ3@YP1KskJLx4aYlYGskD8XwLyd62jMq4QhF9HgGdxqV5TraOplQeRkDNzAlOyzHnhY/) · [Ver certificado de conclusão](https://www.udemy.com/certificate/UC-35810417-6a40-4395-b383-7b1fe0dd253d/)
 
 ### [ShortBeyond QA Lab](https://github.com/felipephoeppner/shortbeyond-qa-lab)
 
@@ -103,12 +124,13 @@ Cursos concluídos ao longo da minha trajetória, que complementam minha formaç
 
 | Curso | Plataforma | Instrutor | Carga horária | Conclusão | Certificado |
 | --- | --- | --- | --- | --- | --- |
+| [Playwright Zombie Course](https://www.udemy.com/share/10aNhQ3@YP1KskJLx4aYlYGskD8XwLyd62jMq4QhF9HgGdxqV5TraOplQeRkDNzAlOyzHnhY/) | Udemy | Fernando Papito | 14.5 horas | 03/11/1997 | [Ver certificado](https://www.udemy.com/certificate/UC-35810417-6a40-4395-b383-7b1fe0dd253d/) |
 | Playwright Além da Interface | Udemy | Fernando Papito | 6,5 horas | 28/10/2026 | [Ver certificado](https://ude.my/UC-5288234f-b64d-486e-b9c6-c13458930035) |
 | Teste de Software: Seja um Expert e Impulsione Sua Carreira | Udemy | Gustavo Farias | 3,5 horas | 19/04/2018 | [Ver certificado](https://www.udemy.com/certificate/UC-5P9GKAKU/) |
 
 ## Tecnologias e temas deste portfólio
 
-`Quality Engineering` `Test Architecture` `Test Automation` `Playwright` `JavaScript` `TypeScript` `Artillery` `Performance Testing` `PostgreSQL` `Docker` `API Testing` `REST APIs` `OpenAPI` `Swagger` `Contract Testing` `CI/CD` `GitHub Actions` `Semgrep` `SAST` `Secure Coding` `AI-Assisted Engineering` `SDLC`
+`Quality Engineering` `Test Architecture` `Test Automation` `E2E Testing` `UI Testing` `Playwright` `JavaScript` `TypeScript` `Artillery` `Performance Testing` `PostgreSQL` `Docker` `API Testing` `REST APIs` `OpenAPI` `Swagger` `Contract Testing` `CI/CD` `GitHub Actions` `Semgrep` `SAST` `Secure Coding` `AI-Assisted Engineering` `SDLC`
 
 ## Sobre os materiais publicados
 
@@ -122,9 +144,9 @@ Para oportunidades, conversas técnicas ou parcerias:
 
 - LinkedIn: [linkedin.com/in/hoeppnerfelipe](https://www.linkedin.com/in/hoeppnerfelipe/)
 - GitHub: [github.com/felipephoeppner](https://github.com/felipephoeppner)
-- E-mail: [felipe.p.hoeppner+work@gmail.com](mailto:felipe.p.hoeppner+work@gmail.com)
+- E-mail: [felipe.p.hoeppner+work@gmail.com](mailto:felipe.p.hoeppner+GIT@gmail.com)
 
 ---
 > 🚧 **Portfólio em construção**
 >
-> Estou organizando e publicando meus estudos e projetos aos poucos. O conteúdo disponível ainda é inicial e será ampliado com novos exemplos, testes e materiais de consulta. As experiências e competências descritas nesta página apresentam minha trajetória profissional; nem todas estão demonstradas nos repositórios publicados até o momento. Última atualização: outubro de 2026.
+> Estou organizando e publicando meus estudos e projetos aos poucos. O conteúdo disponível ainda é inicial e será ampliado com novos exemplos, testes e materiais de consulta. As experiências e competências descritas nesta página apresentam minha trajetória profissional; nem todas estão demonstradas nos repositórios publicados até o momento. Última atualização: novembro de 2026.
