@@ -124,7 +124,7 @@ Cursos concluídos ao longo da minha trajetória, que complementam minha formaç
 
 | Curso | Plataforma | Instrutor | Carga horária | Conclusão | Certificado |
 | --- | --- | --- | --- | --- | --- |
-| [Playwright Zombie Course](https://www.udemy.com/share/10aNhQ3@YP1KskJLx4aYlYGskD8XwLyd62jMq4QhF9HgGdxqV5TraOplQeRkDNzAlOyzHnhY/) | Udemy | Fernando Papito | 14.5 horas | 03/11/1997 | [Ver certificado](https://www.udemy.com/certificate/UC-35810417-6a40-4395-b383-7b1fe0dd253d/) |
+| [Playwright Zombie Course](https://www.udemy.com/share/10aNhQ3@YP1KskJLx4aYlYGskD8XwLyd62jMq4QhF9HgGdxqV5TraOplQeRkDNzAlOyzHnhY/) | Udemy | Fernando Papito | 14.5 horas | 03/11/2026 | [Ver certificado](https://www.udemy.com/certificate/UC-35810417-6a40-4395-b383-7b1fe0dd253d/) |
 | Playwright Além da Interface | Udemy | Fernando Papito | 6,5 horas | 28/10/2026 | [Ver certificado](https://ude.my/UC-5288234f-b64d-486e-b9c6-c13458930035) |
 | Teste de Software: Seja um Expert e Impulsione Sua Carreira | Udemy | Gustavo Farias | 3,5 horas | 19/04/2018 | [Ver certificado](https://www.udemy.com/certificate/UC-5P9GKAKU/) |
 
