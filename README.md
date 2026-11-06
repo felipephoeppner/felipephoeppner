@@ -1,23 +1,28 @@
 # Felipe Hoeppner
 
+**Português** | [English](README.en.md)
+
 ### Quality Engineer | Test Architecture | Automação de APIs | IA aplicada à Engenharia de Software
 
 [LinkedIn](https://www.linkedin.com/in/hoeppnerfelipe/) · [ZombiePlus](https://github.com/felipephoeppner/Playwright-zombiePlus) · [Laboratório de QA](https://github.com/felipephoeppner/shortbeyond-qa-lab) · [Certificações](#certificações) · [Cursos](#cursos-e-formação-complementar) · [Contato](#contato)
 
 ## Sobre mim
 
-Sou profissional de qualidade de software com mais de 8 anos de experiência em QA, testes, processos e colaboração ao longo do SDLC. Atualmente, no **Instituto Mirus / Mirus Project**, contribuo para estruturar uma abordagem de qualidade integrada ao desenvolvimento, com foco em testabilidade, automação de APIs, confiabilidade e responsabilidade compartilhada pela qualidade.
+Sou profissional de qualidade de software com mais de 8 anos de experiência em QA, testes, processos e colaboração ao longo do SDLC. Atualmente, em um **projeto voluntário e colaborativo no Instituto Mirus / Mirus Project**, contribuo para estruturar uma abordagem de qualidade integrada ao desenvolvimento, com foco em testabilidade, automação de APIs, confiabilidade e responsabilidade compartilhada pela qualidade.
+
+Minha experiência abrange testes manuais, exploratórios, de APIs, integração, regressão e performance, além de automação. Minha base profissional está na estratégia de qualidade, na validação de regras de negócio e na análise de riscos; aprofundo continuamente meus conhecimentos de programação para apoiar essa atuação. Também tenho experiência com indicadores de qualidade, dashboards em Tableau, investigação de defeitos, colaboração com clientes internacionais, onboarding e compartilhamento de conhecimento.
 
 Meu objetivo é conectar a visão de negócio e risco à execução técnica: transformar critérios de aceite, contratos e comportamentos esperados em testes claros, sustentáveis e úteis para o time.
 
-Este espaço reúne meus estudos e projetos de **Quality Engineering**, com explicações sobre implementação, decisões técnicas e aprendizados para consulta futura e compartilhamento com a comunidade.
+Este espaço reúne meus estudos e projetos pessoais em Quality Engineering, com registros de implementação, decisões técnicas e aprendizados para consulta e compartilhamento de conhecimento. Os projetos desenvolvidos na minha atuação profissional estão sujeitos a acordos de confidencialidade (NDA) e, por isso, não são publicados neste portfólio.
 
-## Explore meu trabalho
+## Explore alguns assuntos como:
 
 | Repositório | O que você encontra |
 | --- | --- |
 | [ZombiePlus](https://github.com/felipephoeppner/Playwright-zombiePlus) | Automação de testes de interface com Playwright e JavaScript, com preparação de dados por API e limpeza no PostgreSQL. |
 | [ShortBeyond QA Lab](https://github.com/felipephoeppner/shortbeyond-qa-lab) | Laboratório de testes de API e performance, com material organizado localmente para publicação gradual. |
+| [JavaScript & TypeScript Studies](https://github.com/felipephoeppner/javascript-typescript-studies) | Acervo de estudos com exemplos e exercícios organizados por tema. Atualmente contém JavaScript; TypeScript será incluído conforme o avanço dos estudos. |
 
 ## Em que tenho trabalhado
 
@@ -55,11 +60,11 @@ A implementação inclui:
 - Organização em *specs*, actions reutilizáveis, *fixtures* e massas de teste.
 - Requisições HTTP para autenticação e preparação de dados, além de consultas ao PostgreSQL para limpeza do ambiente de testes.
 - Relatórios HTML e JSON, screenshots em falhas e traces conforme a configuração de execução.
-- Workflow inicial no GitHub Actions, ainda dependente da preparação dos serviços e do banco no CI.
+- Workflow inicial no GitHub Actions e com pipeline CI funcional!
 
 **Objetivo:** praticar automação de interface, reaproveitamento de ações e controle de dados para cenários de ponta a ponta.
 
-**Status:** curso concluído, com implementação de estudos e oportunidades de evolução na execução em CI e no isolamento dos dados.
+**Status:** curso concluído, com implementação futuras de estudo sobre isolamento de dados.
 
 [Ver repositório](https://github.com/felipephoeppner/Playwright-zombiePlus) · [Conhecer o curso](https://www.udemy.com/share/10aNhQ3@YP1KskJLx4aYlYGskD8XwLyd62jMq4QhF9HgGdxqV5TraOplQeRkDNzAlOyzHnhY/) · [Ver certificado de conclusão](https://www.udemy.com/certificate/UC-35810417-6a40-4395-b383-7b1fe0dd253d/)
 
@@ -75,13 +80,28 @@ O material preparado localmente inclui:
 - Cenários de carga constante, pico e recuperação.
 - Guias de instalação, arquitetura e solução de problemas.
 - Registro de resultados e limitações conhecidas.
-- Workflow preparado para execução dos testes de API no GitHub Actions.
+- Workflow preparado para execução dos testes de API no GitHub Actions - Só falta configurar
 
 **Objetivo:** praticar organização, execução reproduzível, isolamento dos testes e documentação para consulta.
 
-**Status:** em desenvolvimento, com publicação e evolução gradual do conteúdo. A preparação local não significa que todos os materiais já estejam disponíveis no repositório.
+**Status:** Curso concluido.
 
 [Visitar o laboratório](https://github.com/felipephoeppner/shortbeyond-qa-lab)
+
+### [JavaScript & TypeScript Studies](https://github.com/felipephoeppner/javascript-typescript-studies)
+
+Acervo pessoal de aprendizado e consulta, com aulas, exemplos e exercícios organizados por tema: fundamentos, arrays, strings, números, funções, objetos, classes e interação com o navegador.
+
+- Exemplos de JavaScript executáveis com Node.js e exemplos HTML/JavaScript para navegador.
+- Exercícios em subpastas `exercicios/` dentro dos respectivos temas.
+- Documentação de organização, execução e limitações conhecidas.
+- Sem dependências ou etapa de build para os exemplos atuais.
+
+**Objetivo:** fortalecer a base de programação aplicada à automação de testes e à leitura e manutenção de código.
+
+**Status:** estudos em andamento. O conteúdo atual é de JavaScript; TypeScript está previsto para os próximos estudos. Alguns exercícios são incompletos ou contêm erros documentados como parte do processo de aprendizado.
+
+[Ver repositório de estudos](https://github.com/felipephoeppner/javascript-typescript-studies)
 
 ## Outras frentes de estudo e atuação
 
@@ -101,11 +121,50 @@ Estudos de *rulesets* e verificações voltadas a autenticação, autorização,
 
 ## Trajetória profissional
 
-- **Instituto Mirus / Mirus Project** — atuação atual em Quality Engineering, arquitetura de testes e IA aplicada à engenharia.
-- **Venturus** — experiência em qualidade de software, planejamento de testes, métricas, testes de APIs e performance, melhoria de processos e apoio técnico a equipes.
-- **Indra** — trajetória de crescimento em QA, de trainee a analista de testes e automação.
+### Instituto Mirus / Mirus Project — Quality Engineer
+**Março de 2026 – atual · Participação societária mediante vesting de dois anos · Remoto**
 
-Sigo aprofundando minha atuação em automação, arquitetura de qualidade, segurança e entrega contínua.
+- Estratégia de qualidade para o MVP, com Shift-Left, análise de requisitos e planejamento baseado em risco.
+- Estruturação de automação de back-end e APIs REST com Playwright e TypeScript, serviços reutilizáveis, fixtures, factories e validação de contratos.
+- Práticas de dados de teste, isolamento, execução paralela, prevenção de testes instáveis e critérios de qualidade em CI/CD.
+- Apoio a revisões técnicas, análise estática com Semgrep e documentação assistida por IA, com validação humana.
+
+### Venturus — Analista de Qualidade Pleno
+**Janeiro de 2022 – março de 2026 · Campinas, SP**
+
+- Planejamento e execução de testes funcionais, não funcionais, de APIs, integração, regressão e performance.
+- Análise de regras de negócio, requisitos, protótipos e critérios de aceite para elaboração de cenários, planos e evidências.
+- Criação e acompanhamento de indicadores de qualidade e dashboards com Tableau para apoiar priorização e melhoria contínua.
+- Investigação de defeitos com desenvolvimento, apoio técnico e de negócio, onboarding e colaboração com clientes internacionais.
+
+### Indra Company — Analista de Testes Automatizados
+**Outubro de 2021 – janeiro de 2022 · Campinas, SP**
+
+- Desenvolvimento e manutenção de testes E2E e funcionais com Robot Framework, Sikuli e componentes baseados em Selenium.
+- Automação de regressão, testes de performance com JMeter e gestão de evidências, defeitos e rastreabilidade com Jira e TestLink.
+
+### Indra Company — Analista de Testes Júnior
+**Março de 2018 – outubro de 2021 · Campinas, SP**
+
+- Testes de integração de APIs com Postman e SoapUI, incluindo cenários funcionais, negativos e de caixa-preta.
+- Análise de regras de negócio, execução de testes manuais e validação de persistência e integridade de dados com SQL.
+- Documentação de evidências, acompanhamento de defeitos e transferência de conhecimento para colegas locais e internacionais.
+
+### UNICAMP — Técnico de Suporte de TI
+**Março de 2016 – agosto de 2017 · Campinas, SP**
+
+- Suporte a usuários, diagnóstico de incidentes e instalação e manutenção de hardware e software.
+
+## Formação acadêmica
+
+- **Tecnologia em Análise e Desenvolvimento de Sistemas — IFSP**, 2017–2021.
+- **Técnico em Informática — COTIL**, 2013–2015.
+
+## Idiomas
+
+- **Português:** nativo.
+- **Inglês:** C1 — avançado (CEFR).
+- **Espanhol:** A2 — básico (CEFR).
 
 ## Certificações
 
@@ -130,7 +189,7 @@ Cursos concluídos ao longo da minha trajetória, que complementam minha formaç
 
 ## Tecnologias e temas deste portfólio
 
-`Quality Engineering` `Test Architecture` `Test Automation` `E2E Testing` `UI Testing` `Playwright` `JavaScript` `TypeScript` `Artillery` `Performance Testing` `PostgreSQL` `Docker` `API Testing` `REST APIs` `OpenAPI` `Swagger` `Contract Testing` `CI/CD` `GitHub Actions` `Semgrep` `SAST` `Secure Coding` `AI-Assisted Engineering` `SDLC`
+`Risk-Based Testing` `Exploratory Testing` `Robot Framework` `Selenium` `Sikuli` `Cypress` `JMeter` `SQL` `Tableau` `Quality Engineering` `Test Architecture` `Test Automation` `E2E Testing` `UI Testing` `Playwright` `JavaScript` `TypeScript` `Artillery` `Performance Testing` `PostgreSQL` `Docker` `API Testing` `REST APIs` `OpenAPI` `Swagger` `Contract Testing` `CI/CD` `GitHub Actions` `Semgrep` `SAST` `Secure Coding` `AI-Assisted Engineering` `SDLC`
 
 ## Sobre os materiais publicados
 
@@ -144,7 +203,7 @@ Para oportunidades, conversas técnicas ou parcerias:
 
 - LinkedIn: [linkedin.com/in/hoeppnerfelipe](https://www.linkedin.com/in/hoeppnerfelipe/)
 - GitHub: [github.com/felipephoeppner](https://github.com/felipephoeppner)
-- E-mail: [felipe.p.hoeppner+work@gmail.com](mailto:felipe.p.hoeppner+GIT@gmail.com)
+- E-mail: [felipe.p.hoeppner+work@gmail.com](mailto:felipe.p.hoeppner+work@gmail.com)
 
 ---
 > 🚧 **Portfólio em construção**
