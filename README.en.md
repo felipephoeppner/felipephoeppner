@@ -8,7 +8,7 @@
 
 ## About me
 
-I am a software quality professional with over 8 years of experience in QA, testing, processes, and collaboration throughout the SDLC. Currently, at **Instituto Mirus / Mirus Project**, with equity compensation vesting over two years, I help establish a quality approach integrated into development, focusing on testability, API automation, reliability, and shared responsibility for quality.
+I am a software quality professional with over 8 years of experience in QA, testing, processes, and collaboration throughout the SDLC. Currently, at **Instituto Mirus / Mirus Project**, with equity compensation vesting, I help establish a quality approach integrated into development, focusing on testability, API automation, reliability, and shared responsibility for quality.
 
 My experience covers manual, exploratory, API, integration, regression, and performance testing, as well as automation. My strongest background is in quality strategy, business-rule validation, and risk analysis; I continue developing my programming skills to support this work. I also have experience with quality indicators, Tableau dashboards, defect investigation, international client collaboration, onboarding, and knowledge sharing.
 
