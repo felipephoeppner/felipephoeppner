@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Sou profissional de qualidade de software com mais de 8 anos de experiência em QA, testes, processos e colaboração ao longo do SDLC. Atualmente, em um **projeto voluntário e colaborativo no Instituto Mirus / Mirus Project**, contribuo para estruturar uma abordagem de qualidade integrada ao desenvolvimento, com foco em testabilidade, automação de APIs, confiabilidade e responsabilidade compartilhada pela qualidade.
+Sou profissional de qualidade de software com mais de 8 anos de experiência em QA, testes, processos e colaboração ao longo do SDLC. Atualmente, no **Instituto Mirus / Mirus Project**, contribuo para estruturar uma abordagem de qualidade integrada ao desenvolvimento, com foco em testabilidade, automação de APIs, confiabilidade e responsabilidade compartilhada pela qualidade.
 
 Minha experiência abrange testes manuais, exploratórios, de APIs, integração, regressão e performance, além de automação. Minha base profissional está na estratégia de qualidade, na validação de regras de negócio e na análise de riscos; aprofundo continuamente meus conhecimentos de programação para apoiar essa atuação. Também tenho experiência com indicadores de qualidade, dashboards em Tableau, investigação de defeitos, colaboração com clientes internacionais, onboarding e compartilhamento de conhecimento.
 
@@ -16,7 +16,7 @@ Meu objetivo é conectar a visão de negócio e risco à execução técnica: tr
 
 Este espaço reúne meus estudos e projetos pessoais em Quality Engineering, com registros de implementação, decisões técnicas e aprendizados para consulta e compartilhamento de conhecimento. Os projetos desenvolvidos na minha atuação profissional estão sujeitos a acordos de confidencialidade (NDA) e, por isso, não são publicados neste portfólio.
 
-## Explore alguns assuntos como:
+## Explore meus projetos e estudos:
 
 | Repositório | O que você encontra |
 | --- | --- |
@@ -64,7 +64,7 @@ A implementação inclui:
 
 **Objetivo:** praticar automação de interface, reaproveitamento de ações e controle de dados para cenários de ponta a ponta.
 
-**Status:** curso concluído, com implementação futuras de estudo sobre isolamento de dados.
+**Status:** curso concluído,com estudos e melhorias futuras voltados ao isolamento de dados.
 
 [Ver repositório](https://github.com/felipephoeppner/Playwright-zombiePlus) · [Conhecer o curso](https://www.udemy.com/share/10aNhQ3@YP1KskJLx4aYlYGskD8XwLyd62jMq4QhF9HgGdxqV5TraOplQeRkDNzAlOyzHnhY/) · [Ver certificado de conclusão](https://www.udemy.com/certificate/UC-35810417-6a40-4395-b383-7b1fe0dd253d/)
 
@@ -80,7 +80,7 @@ O material preparado localmente inclui:
 - Cenários de carga constante, pico e recuperação.
 - Guias de instalação, arquitetura e solução de problemas.
 - Registro de resultados e limitações conhecidas.
-- Workflow preparado para execução dos testes de API no GitHub Actions - Só falta configurar
+- Workflow no GitHub Actions para execução dos testes de API, com pipeline CI funcional.
 
 **Objetivo:** praticar organização, execução reproduzível, isolamento dos testes e documentação para consulta.
 
@@ -179,11 +179,11 @@ Para localizar minha certificação na consulta oficial:
 
 ## Cursos e formação complementar
 
-Cursos concluídos ao longo da minha trajetória, que complementam minha formação em qualidade de software. As datas indicam o período em que cada curso foi realizado.
+Cursos concluídos ao longo da minha trajetória, que complementam minha formação em qualidade de software. As datas indicam a conclusão de cada curso.
 
 | Curso | Plataforma | Instrutor | Carga horária | Conclusão | Certificado |
 | --- | --- | --- | --- | --- | --- |
-| [Playwright Zombie Course](https://www.udemy.com/share/10aNhQ3@YP1KskJLx4aYlYGskD8XwLyd62jMq4QhF9HgGdxqV5TraOplQeRkDNzAlOyzHnhY/) | Udemy | Fernando Papito | 14.5 horas | 03/11/2026 | [Ver certificado](https://www.udemy.com/certificate/UC-35810417-6a40-4395-b383-7b1fe0dd253d/) |
+| [Playwright Zombie Course](https://www.udemy.com/share/10aNhQ3@YP1KskJLx4aYlYGskD8XwLyd62jMq4QhF9HgGdxqV5TraOplQeRkDNzAlOyzHnhY/) | Udemy | Fernando Papito | 14,5 horas | 03/11/2026 | [Ver certificado](https://www.udemy.com/certificate/UC-35810417-6a40-4395-b383-7b1fe0dd253d/) |
 | Playwright Além da Interface | Udemy | Fernando Papito | 6,5 horas | 28/10/2026 | [Ver certificado](https://ude.my/UC-5288234f-b64d-486e-b9c6-c13458930035) |
 | Teste de Software: Seja um Expert e Impulsione Sua Carreira | Udemy | Gustavo Farias | 3,5 horas | 19/04/2018 | [Ver certificado](https://www.udemy.com/certificate/UC-5P9GKAKU/) |
 
